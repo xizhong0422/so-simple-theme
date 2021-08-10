@@ -18,11 +18,16 @@
 remote_theme: mmistakes/so-simple-theme
 
 locale: en-US
-title: "So Simple"
-description: "A simple Jekyll theme for words and pictures."
-baseurl: "/so-simple-theme"
-url: "https://mmistakes.github.io"
-logo: "/images/so-simple-site-logo.png"
+
+#url: "https://mmistakes.github.io"
+#logo: "/images/so-simple-site-logo.png"
+
+title: "Site Test"
+description: "It really is just a test."
+baseurl: # the subpath of your site, e.g. "/blog"
+url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+logo: "assets/images/logo.png" # path of site logo, e.g. 
+
 date_format: "%B %-d, %Y"
 read_time: true
 words_per_minute: # 200
